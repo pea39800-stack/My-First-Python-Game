@@ -3,7 +3,7 @@ import random
 
 pygame.init()
 
-pygame.key.set_repeat(200, 80)
+pygame.key.set_repeat(200, 60)
 
 BLOCK = 30
 COLS = 10
